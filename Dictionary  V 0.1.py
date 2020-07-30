@@ -12,7 +12,7 @@ d1 = {"Abba":"পিতা", "Father":"পিতা", "Abbey":"মঠ", "Abidanc
 "Chopped":"কাটা", "Wood":"কাঠ", "Drop":"ঝরা", "Company":"প্রতিষ্ঠান, সঙ্গ", "Happy":"খুশি", "Close":"বদ্ধ, কাছাকাছি", "Touch":"ধরা, ছুঁয়া", "Quick":
 "তাড়াতাড়ি, হঠকারী", "Evaporate":"বাষ্পে পরিণত করা", "Hurry up":"তারাতারি কর", "Wet":"ভিজা", "God":"ভগবান", "Stand":"দাঁড়ান", "Roof":"ছাদ", "Stretch":"প্রসারণ",
 "Coconut":"নারিকেল", "Love":"ভালবাসা", "Light":"আলো", "Beautiful":"সুন্দর", "Goal":"লক্ষ্য", "Lnguage":"ভাষা", "Option":"অন্য কোনো উপায়", "Policy":"নীতি",
- "Information":"তথ্য", "Interview":"পরস্পর সাক্ষাৎ"}
+ "Information":"তথ্য", "Interview":"পরস্পর সাক্ষাৎ", "Institute","শিক্ষাস্থান"}
 print("enter your qure")
 d2 = input()
 print(d1.get(d2))
