@@ -1,6 +1,6 @@
 # Dictionary
 
-This is a bengali to english dictionary programming with python language.
+This is a Bengali to English dictionary programming with python language.
 
 # Rules
 
