@@ -15,4 +15,4 @@ d1 = {"Abba":"পিতা", "Father":"পিতা", "Abbey":"মঠ", "Abidanc
  "Information":"তথ্য", "Interview":"পরস্পর সাক্ষাৎ", "Institute","শিক্ষাস্থান", "Joy":"আনন্দ", "Tree":"গাছ", "Reverse":"উল্টো", "Assignment":"নিয়োগ", "Universe":"বিশ্ব", "Clock":"ঘড়ি"}
 print("enter your qure")
 d2 = input()
-print(d1.get(d2) )
+print(d1.get(d2))
